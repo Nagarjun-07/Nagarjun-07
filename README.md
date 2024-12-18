@@ -7,12 +7,12 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nagarjun-07&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=nagarjun-07&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=nagarjun-07" alt="trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=nagarjun-07" alt="Trophy" />
   </a>
 </p>
 
@@ -35,58 +35,58 @@
 <p align="center">
   <!-- List of languages and tools -->
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
   </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
   </a>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
   </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
   </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
   </a>
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
   </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
   </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/>
   </a>
   <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/>
   </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/>
   </a>
 </p>
 
@@ -95,15 +95,15 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nagarjun-07&show_icons=true&locale=en" alt="nagarjun-07" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nagarjun-07&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nagarjun-07&" alt="nagarjun-07" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nagarjun-07&" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nagarjun-07&show_icons=true&locale=en&layout=compact" alt="nagarjun-07" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nagarjun-07&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
 ---
@@ -120,27 +120,39 @@
 
 ---
 
-### 📌 GitHub Stats Badges
+### 🏆 GitHub Badges (With Fun Touch)
 
 <p align="center">
   <a href="https://github.com/nagarjun-07">
-    <img src="https://img.shields.io/github/stars/nagarjun-07?label=Stars&style=social" alt="stars-badge" />
+    <img src="https://img.shields.io/github/stars/nagarjun-07?label=Stars&style=social" alt="Stars Badge" />
   </a>
   <a href="https://github.com/nagarjun-07">
-    <img src="https://img.shields.io/github/followers/nagarjun-07?label=Followers&style=social" alt="followers-badge" />
+    <img src="https://img.shields.io/github/followers/nagarjun-07?label=Followers&style=social" alt="Followers Badge" />
   </a>
-  <!-- Additional cool badges -->
+  <!-- Fun Badge for Commit Activity -->
   <a href="https://github.com/nagarjun-07">
-    <img src="https://img.shields.io/github/issues/nagarjun-07?style=flat-square&logo=github&color=orange" alt="open-issues" />
+    <img src="https://img.shields.io/github/commit-activity/y/nagarjun-07?style=flat-square&logo=github&color=green" alt="Commit Activity Badge" />
   </a>
-  <a href="https://github.com/nagarjun-07">
-    <img src="https://img.shields.io/github/commit-activity/y/nagarjun-07?style=flat-square&logo=github&color=green" alt="commit-activity" />
+  <!-- Fun Badge for Issues -->
+  <a href="https://github.com/nagarjun-07/issues">
+    <img src="https://img.shields.io/github/issues/nagarjun-07?style=flat-square&logo=github&color=orange" alt="Open Issues Badge" />
   </a>
-  <a href="https://github.com/nagarjun-07">
-    <img src="https://img.shields.io/github/license/nagarjun-07?style=flat-square&logo=github&color=blue" alt="license" />
-  </a>
-  <a href="https://github.com/nagarjun-07">
-    <img src="https://img.shields.io/github/contributors/nagarjun-07?style=flat-square&logo=github&color=purple" alt="contributors" />
+  <!-- Fun Badge for Forks -->
+  <a href="https://github.com/nagarjun-07?tab=forks">
+    <img src="https://img.shields.io/github/forks/nagarjun-07?style=social" alt="Forks Badge" />
   </a>
 </p>
 
+---
+
+### 😂 Fun Badges
+
+<p align="center">
+  <!-- Fun badge showing dev humor -->
+  <a href="https://github.com/nagarjun-07">
+    <img src="https://img.shields.io/badge/Code-Is%20Magic-ff69b4?style=flat-square&logo=magic" alt="Magic Code Badge" />
+  </a>
+  <a href="https://github.com/nagarjun-07">
+    <img src="https://img.shields.io/badge/Currently%20Coding-Coffee%20Powered-brown?style=flat-square&logo=coffee" alt="Coffee Powered Badge" />
+  </a>
+</p>
