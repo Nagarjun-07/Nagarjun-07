@@ -123,23 +123,25 @@
 ### 🏆 GitHub Badges (With Fun Touch)
 
 <p align="center">
+  <!-- Animated Stars Badge -->
   <a href="https://github.com/nagarjun-07">
-    <img src="https://img.shields.io/github/stars/nagarjun-07?label=Stars&style=social" alt="Stars Badge" />
+    <img src="https://img.shields.io/github/stars/nagarjun-07?label=Stars&style=social&maxAge=3600" alt="Stars Badge" />
   </a>
+  <!-- Animated Followers Badge -->
   <a href="https://github.com/nagarjun-07">
-    <img src="https://img.shields.io/github/followers/nagarjun-07?label=Followers&style=social" alt="Followers Badge" />
+    <img src="https://img.shields.io/github/followers/nagarjun-07?label=Followers&style=social&maxAge=3600" alt="Followers Badge" />
   </a>
-  <!-- Fun Badge for Commit Activity -->
+  <!-- Animated Commit Activity Badge -->
   <a href="https://github.com/nagarjun-07">
-    <img src="https://img.shields.io/github/commit-activity/y/nagarjun-07?style=flat-square&logo=github&color=green" alt="Commit Activity Badge" />
+    <img src="https://img.shields.io/github/commit-activity/y/nagarjun-07?style=flat-square&logo=github&color=green&maxAge=3600" alt="Commit Activity Badge" />
   </a>
-  <!-- Fun Badge for Issues -->
+  <!-- Animated Open Issues Badge -->
   <a href="https://github.com/nagarjun-07/issues">
-    <img src="https://img.shields.io/github/issues/nagarjun-07?style=flat-square&logo=github&color=orange" alt="Open Issues Badge" />
+    <img src="https://img.shields.io/github/issues/nagarjun-07?style=flat-square&logo=github&color=orange&maxAge=3600" alt="Open Issues Badge" />
   </a>
-  <!-- Fun Badge for Forks -->
+  <!-- Animated Forks Badge -->
   <a href="https://github.com/nagarjun-07?tab=forks">
-    <img src="https://img.shields.io/github/forks/nagarjun-07?style=social" alt="Forks Badge" />
+    <img src="https://img.shields.io/github/forks/nagarjun-07?style=social&maxAge=3600" alt="Forks Badge" />
   </a>
 </p>
 
@@ -148,11 +150,23 @@
 ### 😂 Fun Badges
 
 <p align="center">
-  <!-- Fun badge showing dev humor -->
+  <!-- Fun animated badge showing dev humor -->
   <a href="https://github.com/nagarjun-07">
-    <img src="https://img.shields.io/badge/Code-Is%20Magic-ff69b4?style=flat-square&logo=magic" alt="Magic Code Badge" />
+    <img src="https://img.shields.io/badge/Code-Is%20Magic-ff69b4?style=flat-square&logo=magic&maxAge=3600" alt="Magic Code Badge" />
   </a>
+  <!-- Animated Coffee Powered Badge -->
   <a href="https://github.com/nagarjun-07">
-    <img src="https://img.shields.io/badge/Currently%20Coding-Coffee%20Powered-brown?style=flat-square&logo=coffee" alt="Coffee Powered Badge" />
+    <img src="https://img.shields.io/badge/Currently%20Coding-Coffee%20Powered-brown?style=flat-square&logo=coffee&maxAge=3600" alt="Coffee Powered Badge" />
   </a>
 </p>
+
+---
+
+### 🖼️ Fun Animated GIFs
+
+<p align="center">
+  <a href="https://github.com/nagarjun-07">
+    <img src="https://media.giphy.com/media/xT9IgG50Fb7zgj17Jm/giphy.gif" alt="Coding GIF" width="300" />
+  </a>
+</p>
+
