@@ -1,41 +1,39 @@
 <h1 align="center">Hi 👋, I'm Nagarjun H</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h3 align="center">A passionate Software Developer from India</h3>
 <p align="center">
   <a href="https://a-static.besthdwallpaper.com/golden-ray-after-the-dark-night-wallpaper-1920x1200-121373_6.jpg">
-    <img src="https://a-static.besthdwallpaper.com/golden-ray-after-the-dark-night-wallpaper-1920x1200-121373_6.jpg" alt="img"/>
+    <img src="https://a-static.besthdwallpaper.com/golden-ray-after-the-dark-night-wallpaper-1920x1200-121373_6.jpg" alt="img" width="400" />
   </a>
 </p>
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=nagarjun-07&label=Profile%20views&color=0e75b6&style=flat" alt="nagarjun-07" />
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nagarjun-07&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=nagarjun-07" alt="nagarjun-07" />
+    <img src="https://github-profile-trophy.vercel.app/?username=nagarjun-07" alt="trophy" />
   </a>
 </p>
 
-- 🔭 I’m currently working on **Semantic segmentation of imagery satelite using pytorch**
-- 🌱 I’m currently learning **python , computer vision**
-- 👨‍💻 All of my projects are available at [nagarjun-landingpage.vercel.app](https://nagarjun-landingpage.vercel.app)
+---
+
+### 🚀 About Me
+- 🔭 I’m currently working on **Semantic segmentation of satellite imagery using PyTorch**.
+- 🌱 I’m learning **Python, Computer Vision, and Deep Learning**.
+- 👨‍💻 You can check out all of my projects on my [Landing Page](https://nagarjun-landingpage.vercel.app).
 - 📝 My portfolio: [nagarjun-07.vercel.app](https://nagarjun-07.vercel.app)
-- 💬 Familiar with **Python frameworks, Vercel, Git, OOPS**
-- 📫 How to reach me: **nagarjunh77@gmail.com**
-- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1F5xrmd1HB7iBIdhoygvZhgK2_le4sfpB/view?usp=sharing)
-- ⚡ Fun fact: **I'm an Imagineer - obsessed with innovation**
+- 💬 I'm familiar with **Python frameworks**, **Vercel**, **Git**, **OOP**.
+- 📫 Reach me at: **nagarjunh77@gmail.com**.
+- 📄 View my [Resume](https://drive.google.com/file/d/1F5xrmd1HB7iBIdhoygvZhgK2_le4sfpB/view?usp=sharing).
+- ⚡ Fun fact: **I'm an Imagineer - obsessed with innovation**.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/Nagarjun-H/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/_arjun07_._/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+### 📚 Languages and Tools
+
+<p align="center">
+  <!-- List of languages and tools -->
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
   </a>
@@ -92,21 +90,37 @@
   </a>
 </p>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nagarjun-07&show_icons=true&locale=en&layout=compact" alt="nagarjun-07" />
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nagarjun-07&show_icons=true&locale=en" alt="nagarjun-07" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nagarjun-07&show_icons=true&locale=en" alt="nagarjun-07" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nagarjun-07&" alt="nagarjun-07" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nagarjun-07&" alt="nagarjun-07" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nagarjun-07&show_icons=true&locale=en&layout=compact" alt="nagarjun-07" />
 </p>
 
-<p>
-  <img align="center" src="https://img.shields.io/github/followers/nagarjun-07?label=Followers&style=social" alt="followers-badge" />
+---
+
+### 🤝 Connect with me:
+<p align="center">
+  <a href="https://www.linkedin.com/in/Nagarjun-H/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/_arjun07_._/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
 </p>
+
+---
+
+### 📌 GitHub Stats Badges
 
 <p align="center">
   <a href="https://github.com/nagarjun-07">
@@ -115,4 +129,18 @@
   <a href="https://github.com/nagarjun-07">
     <img src="https://img.shields.io/github/followers/nagarjun-07?label=Followers&style=social" alt="followers-badge" />
   </a>
+  <!-- Additional cool badges -->
+  <a href="https://github.com/nagarjun-07">
+    <img src="https://img.shields.io/github/issues/nagarjun-07?style=flat-square&logo=github&color=orange" alt="open-issues" />
+  </a>
+  <a href="https://github.com/nagarjun-07">
+    <img src="https://img.shields.io/github/commit-activity/y/nagarjun-07?style=flat-square&logo=github&color=green" alt="commit-activity" />
+  </a>
+  <a href="https://github.com/nagarjun-07">
+    <img src="https://img.shields.io/github/license/nagarjun-07?style=flat-square&logo=github&color=blue" alt="license" />
+  </a>
+  <a href="https://github.com/nagarjun-07">
+    <img src="https://img.shields.io/github/contributors/nagarjun-07?style=flat-square&logo=github&color=purple" alt="contributors" />
+  </a>
 </p>
+
