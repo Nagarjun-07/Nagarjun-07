@@ -131,21 +131,7 @@
   <a href="https://github.com/nagarjun-07">
     <img src="https://img.shields.io/github/followers/nagarjun-07?label=Followers&style=social&maxAge=3600" alt="Followers Badge" />
   </a>
-  <!-- Animated Commit Activity Badge -->
-  <a href="https://github.com/nagarjun-07">
-    <img src="https://img.shields.io/github/commit-activity/y/nagarjun-07?style=flat-square&logo=github&color=green&maxAge=3600" alt="Commit Activity Badge" />
-  </a>
-  <!-- Animated Open Issues Badge -->
-  <a href="https://github.com/nagarjun-07/issues">
-    <img src="https://img.shields.io/github/issues/nagarjun-07?style=flat-square&logo=github&color=orange&maxAge=3600" alt="Open Issues Badge" />
-  </a>
-  <!-- Animated Forks Badge -->
-  <a href="https://github.com/nagarjun-07?tab=forks">
-    <img src="https://img.shields.io/github/forks/nagarjun-07?style=social&maxAge=3600" alt="Forks Badge" />
-  </a>
 </p>
-
----
 
 ### 😂 Fun Badges
 
@@ -160,13 +146,9 @@
   </a>
 </p>
 
----
-
-### 🖼️ Fun Animated GIFs
-
 <p align="center">
   <a href="https://github.com/nagarjun-07">
-    <img src="https://media.giphy.com/media/xT9IgG50Fb7zgj17Jm/giphy.gif" alt="Coding GIF" width="300" />
+    <img src="https://media.giphy.com/media/ZZiLDJ98R2GOY/giphy.gif" alt="Coding GIF" width="300" />
   </a>
 </p>
 
