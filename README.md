@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nagarjun H Bharadwaj </h1>
+<h1 align="center">Hi 👋, I'm Nagarjun H Bharadwa </h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 <p align="center">
   <a href="https://a-static.besthdwallpaper.com/golden-ray-after-the-dark-night-wallpaper-1920x1200-121373_6.jpg">
