@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Developer from India</h3>
 <p align="center">
   <a href="https://a-static.besthdwallpaper.com/golden-ray-after-the-dark-night-wallpaper-1920x1200-121373_6.jpg">
-    <img src="https://a-static.besthdwallpaper.com/golden-ray-after-the-dark-night-wallpaper-1920x1200-121373_6.jpg" alt="img" width="400" />
+    <img src="https://a-static.besthdwallpaper.com/golden-ray-after-the-dark-night-wallpaper-1920x1200-121373_6.jpg" alt="img" width="600" />
   </a>
 </p>
 
