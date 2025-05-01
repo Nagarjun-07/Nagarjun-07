@@ -9,12 +9,6 @@
   <img src="https://komarev.com/ghpvc/?username=nagarjun-07&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=nagarjun-07&theme=gruvbox&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-  </a>
-</p>
-
 ---
 
 ### 🚀 About Me
@@ -27,6 +21,14 @@
 - 📫 How to reach me: **nagarjunh77@gmail.com**
 - 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1F5xrmd1HB7iBIdhoygvZhgK2_le4sfpB/view?usp=sharing)
 - ⚡ Fun fact: **I'm an Imagineer - obsessed with innovation**
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nagarjun-07&theme=monokai&no-frame=true&column=7" />
+</p>
 
 ---
 
@@ -69,16 +71,6 @@
 
 ---
 
-### 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nagarjun-07&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nagarjun-07&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nagarjun-07&theme=radical" />
-</p>
-
----
-
 ### 🤝 Connect with Me
 
 <p align="center">
@@ -95,44 +87,25 @@
 
 ---
 
-### 🎯 Achievements Unlocked
+### ✨ Highlights
 
-- 🚀 Deployed multiple full-stack applications to production.
-- 🔥 Consistently learning new technologies every month.
-- 🥇 Completed **20+ personal projects** in Web and AI.
-- 📚 Actively contributing to open source and hackathons.
-- 🌟 Built projects with **1000+ combined views**.
+- 💡 Always learning new tools and technologies.
+- 🔥 Built multiple web & AI apps that gained traction.
+- 🎯 Contributor to open source and hackathons.
+- 🥇 20+ projects, and more coming!
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Always%20Learning-💡-blue" />
   <img src="https://img.shields.io/badge/Think%20Big-🚀-orange" />
-  <img src="https://img.shields.io/badge/Code%20With%20Passion-❤️-pink" />
+  <img src="https://img.shields.io/badge/Imagineer-💡-purple" />
+  <img src="https://img.shields.io/badge/Coding%20Fueled%20By-Coffee-brown" />
 </p>
 
 ---
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/nagarjun-07/nagarjun-07/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-</p>
-
----
-
-### 😂 Fun Badges
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Code-Is%20Magic-ff69b4?style=flat-square&logo=magic&maxAge=3600" alt="Magic Code Badge" />
-  <img src="https://img.shields.io/badge/Currently%20Coding-Coffee%20Powered-brown?style=flat-square&logo=coffee&maxAge=3600" alt="Coffee Powered Badge" />
-</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/ZZiLDJ98R2GOY/giphy.gif" alt="Coding GIF" width="300" />
 </p>
 
----
-
 <p align="center">
-  💻 Always coding, always dreaming 🌟 <br/>
-  🚀 Let's build something amazing together!
+  🚀 Let's build something awesome together!
 </p>
