@@ -22,7 +22,7 @@
 - 🔭 I’m currently working on **Semantic segmentation of satellite imagery using PyTorch**.
 - 🌱 I’m learning **Python, Computer Vision, and Deep Learning**.
 - 👨‍💻 You can check out all of my projects on my [Landing Page](https://nagarjun-landingpage.vercel.app).
-- 📝 My portfolio: [nagarjun-07.vercel.app](https://nagarjun-07.vercel.app)
+- 📝 My portfolio: [nagarjun-07.vercel.app](https://nagarjun-h.vercel.app)
 - 💬 I'm familiar with **Python frameworks**, **Vercel**, **Git**, **OOP**.
 - 📫 Reach me at: **nagarjunh77@gmail.com**.
 - 📄 View my [Resume](https://drive.google.com/file/d/1F5xrmd1HB7iBIdhoygvZhgK2_le4sfpB/view?usp=sharing).
