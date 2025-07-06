@@ -15,7 +15,6 @@
     <img src="https://github-profile-trophy.vercel.app/?username=nagarjun-07" alt="Trophy" />
   </a>
 </p>
-
 ---
 
 ### 🚀 About Me
