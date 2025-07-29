@@ -19,8 +19,8 @@
 
 ### 🚀 About Me
 - 🔭 I’m currently working on **Semantic segmentation of satellite imagery using PyTorch**.
-- 🌱 I’m learning **Python, LLMs, and Deep Learning**.
-- 👨‍💻 You can check out all of my projects on my [Landing Page](https://nagarjun-landingpage.vercel.app).
+- 🌱 My learning stack **AI, LLMs, and Deep Learning**.
+- 👨‍💻 You can check my landing page here [Landing Page](https://nagarjun-landingpage.vercel.app).
 - 📝 My portfolio: [nagarjun-h.vercel.app](https://nagarjun-h.vercel.app)
 - 💬 I'm familiar with **Python frameworks**,  **Machine learning**,**Vercel**, **Git**, **OOP**.
 - 📫 Reach me at: **nagarjunh77@gmail.com**.
