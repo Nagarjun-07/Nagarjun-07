@@ -24,7 +24,7 @@
 - 📝 My portfolio: [nagarjun-h.vercel.app](https://nagarjun-h.vercel.app)
 - 💬 I'm familiar with **Python frameworks**,  **Machine learning**,**Vercel**, **Git**, **OOP**.
 - 📫 Reach me at: **nagarjunh77@gmail.com**.
-- 📄 View my [Resume][(https://drive.google.com/file/d/1lMbYzZvBVLapd9zL2CxuIWL2mI4rIf9v/view?usp=drivesdk)](https://drive.google.com/file/d/15cR0QiMk-qxoRcinod6qyB6DRP1kLW0M/view?usp=sharing)].
+- 📄 View my [Resume](https://drive.google.com/file/d/1lMbYzZvBVLapd9zL2CxuIWL2mI4rIf9v/view?usp=drivesdk)](https://drive.google.com/file/d/15cR0QiMk-qxoRcinod6qyB6DRP1kLW0M/view?usp=sharing).
 - ⚡ Fun fact: **I'm an Imagineer - obsessed with innovation**.
 
 ---
