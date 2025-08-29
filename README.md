@@ -5,7 +5,6 @@
     <img src="https://a-static.besthdwallpaper.com/golden-ray-after-the-dark-night-wallpaper-1920x1200-121373_6.jpg" alt="img" width="600" />
   </a>
 </p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nagarjun-07&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
