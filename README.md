@@ -33,11 +33,9 @@ I’m an **AI Engineer** and **Board Member at [Upsilon AI](https://upsilonai.ve
 
 ---
 
-## 🎥 Demo Video
 
 [![Watch the video](https://img.shields.io/badge/▶-Click%20to%20Play-red?style=for-the-badge&logo=youtube)](https://drive.google.com/file/d/1qN9mab-n0U-r5YvySQ8BuSd5shLvRl9y/view?usp=sharing)
 
-*(Replace `YOUR_VIDEO_LINK_HERE` with your actual video URL, e.g. YouTube, Loom, or GitHub video link)*
 
 ---
 
