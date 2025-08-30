@@ -17,7 +17,7 @@
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently working on **Semantic segmentation of satellite imagery using PyTorch**.
+- 🔭 I’m currently working on **Institutional claim auditor project**.
 - 🌱 My learning stack **AI, LLMs, and Deep Learning**.
 - 👨‍💻 You can check my landing page here [Landing Page](https://nagarjun-landingpage.vercel.app).
 - 📝 My portfolio: [nagarjun-h.vercel.app](https://nagarjun-h.vercel.app)
