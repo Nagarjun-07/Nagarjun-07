@@ -28,8 +28,8 @@
 
 ---
   
-I’m an **AI Engineer** and **Board Member at [Upsilon AI](https://upsilonai.vercel.app)**  
-(YC Shortlisted & INSEAD Venture Lab - AI)
+I’m an **AI Engineer** and a **Board Member at [Upsilon AI](https://upsilonai.vercel.app)**  
+(INSEAD Venture Lab - AI)
 
 ---
 
