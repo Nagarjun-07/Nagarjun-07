@@ -17,8 +17,8 @@
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently working on **Institutional claim auditor project**.
-- 🌱 My learning stack **AI, LLMs, and Deep Learning**.
+- 🔭 I’m currently working on **Alenta AI-webrap**.
+- 🌱 My learning stack ** LLMs and Deep Learning**.
 - 👨‍💻 You can check my landing page here [Landing Page](https://nagarjun-landingpage.vercel.app).
 - 📝 My portfolio: [nagarjun-h.vercel.app](https://nagarjun-h.vercel.app)
 - 💬 I'm familiar with **Python frameworks**,  **Machine learning**,**Vercel**, **Git**, **OOP**.
