@@ -19,23 +19,14 @@
 ### 🚀 About Me
 - 🔭 I’m currently working on **Alenta AI-webrap**.
 - 🌱 My learning stack ** LLMs and Deep Learning**.
-- 👨‍💻 You can check my landing page here [Landing Page](https://nagarjun-landingpage.vercel.app).
 - 📝 My portfolio: [nagarjun-h.vercel.app](https://nagarjun-h.vercel.app)
 - 💬 I'm familiar with **Python frameworks**,  **Machine learning**,**Vercel**, **Git**, **OOP**.
 - 📫 Reach me at: **nagarjunh77@gmail.com**.
-- 📄 View my [Resume](https://drive.google.com/file/d/15cR0QiMk-qxoRcinod6qyB6DRP1kLW0M/view?usp=sharing)
-- ⚡ Fun fact: **I'm an Imagineer - obsessed with innovation**.
 
 ---
   
 I’m an **AI Engineer** and a **Board Member at [Upsilon AI](https://upsilonai.vercel.app)**  
 (INSEAD Venture Lab - AI)
-
----
-
-
-[![Watch the video](https://img.shields.io/badge/▶-Click%20to%20Play-red?style=for-the-badge&logo=youtube)](https://drive.google.com/file/d/1qN9mab-n0U-r5YvySQ8BuSd5shLvRl9y/view?usp=sharing)
-
 
 ---
 
@@ -140,8 +131,8 @@ I’m an **AI Engineer** and a **Board Member at [Upsilon AI](https://upsilonai.
 ### 🏅 Achievements Unlocked
 
 - 🚀 Deployed multiple full-stack apps to production!
-- 🔥 Consistently learning new technologies every month.
-- 🥇 Completed **20+ personal projects** in Web and AI.
+- 🔥 Consistently learning new technologies every week.
+- 🥇 Completed **20+ personal projects** in Web, cloud and AI.
 - 📚 Actively contributing to open source and hackathons.
 - 🌟 Built projects with **1000+ combined views**.
 
