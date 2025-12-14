@@ -17,7 +17,7 @@
 
 - 🔭 Building **Alenta AI - WebRap**
 - 🧠 Focused on **LLMs • Deep Learning • Web Systems**
-- 🌍 Board Member — **Upsilon AI (INSEAD Venture Lab)**
+- 🌍 Board Member — **Upsilon AI**
 - 🧑 Portfolio: **https://nagarjun-h.vercel.app**
 - 📩 Mail: **nagarjunh77@gmail.com**
 
