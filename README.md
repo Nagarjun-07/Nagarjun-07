@@ -32,9 +32,18 @@
 ---
 
 ## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://img.shields.io/badge/Active%20Contributor-500%2B%20Commits-1f6feb?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20Source-Starred%20Repos-f97316?style=flat-square&logo=github&logoColor=white" />
+</p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nagarjun-07&theme=radical&no-frame=true&margin-w=8" />
+  <img src="https://img.shields.io/badge/Consistency-Daily%20Commits-22c55e?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Full--Stack-Production%20Apps-7c3aed?style=flat-square&logo=react&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20Engineer-ML%20%7C%20LLMs-ef4444?style=flat-square&logo=openai&logoColor=white" />
 </p>
 
 ---
