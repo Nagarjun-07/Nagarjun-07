@@ -1,7 +1,7 @@
 <!-- ======================= HEADER ========================== -->
 
 <h1 align="center"><b>👋 Hi, I'm Nagarjun H Bharadwaj</b></h1>
-<h3 align="center">Software Engineer • Full-Stack Developer • Tech Innovator</h3>
+<h3 align="center">Data Engineer • Full-Stack Developer • Tech + AI Innovator</h3>
 
 <p align="center">
   <img src="https://a-static.besthdwallpaper.com/golden-ray-after-the-dark-night-wallpaper-1920x1200-121373_6.jpg" width="800" style="border-radius:120px"/>
