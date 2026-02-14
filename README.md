@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-- 🔭 Building **Alenta AI - WebRap**
+- 🔭 Building **Alenta AI - WebRep**
 - 🧠 Focused on **LLMs • Deep Learning • Web Systems**
 - 🌍 Board Member — **Upsilon AI**
 - 🧑 Portfolio: **https://nagarjun-h.vercel.app**
