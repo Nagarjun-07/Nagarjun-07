@@ -16,10 +16,20 @@
 ## 🚀 About Me
 
 - 🔭 Building **Alenta AI - WebRep**
-- 🧠 Focused on **LLMs • Deep Learning • Web Systems**
+- 🧠 Designing scalable **LLM-powered systems**
+- ⚙️ Engineering distributed data workflows
 - 🌍 Board Member — **Upsilon AI**
 - 🧑 Portfolio: **https://nagarjun-h.vercel.app**
 - 📩 Mail: **nagarjunh77@gmail.com**
+
+---
+
+## 🧠 Current Focus
+
+- Architecting scalable AI systems (LLM + Retrieval)
+- Real-time data pipelines & distributed processing
+- Production-ready ML deployment
+- Performance-first backend design
 
 ---
 
@@ -30,6 +40,14 @@
 </p>
 
 ---
+
+## 🚀 Featured Engineering Work
+
+- 🔹 Alenta AI – LLM-powered Web Intelligence Platform  
+- 🔹 Real-time Event Processing Infrastructure  
+- 🔹 Distributed Knowledge Ingestion System  
+- 🔹 AI Agent Configuration Engine  
+
 
 ## 🏆 GitHub Trophies
 <p align="center">
